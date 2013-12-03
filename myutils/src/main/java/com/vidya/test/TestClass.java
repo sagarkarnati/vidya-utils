@@ -1,10 +1,3 @@
-/**
- * 
- * Mindtree © 2013. All rights reserved.
- *
- * Created Date : 28-Nov-2013 12:13:30 PM
- *
- */
 package com.vidya.test;
 
 import java.util.ArrayList;
