@@ -1,10 +1,3 @@
-/**
- * 
- * Mindtree © 2013. All rights reserved.
- *
- * Created Date : 28-Nov-2013 11:56:07 AM
- *
- */
 package com.vidya.test;
 
 /**
